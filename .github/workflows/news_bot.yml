@@ -1,0 +1,34 @@
+name: AI News Engine Bot
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Runs every 4 hours automatically
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install AI Libraries
+        run: |
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: Run AI News Engine
+        run: python news_updater.py
+
+      - name: Save new data back to GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news_data.json
+          git commit -m "Robot auto-updated news data" || echo "No new news found."
+          git push

@@ -1,7 +1,5 @@
 import feedparser
 import json
-import time
-import schedule
 from datetime import datetime
 from transformers import pipeline
 
@@ -107,11 +105,3 @@ def process_and_save_news():
     # Run the function immediately once
 process_and_save_news()
 
-# Schedule it to run every 30 minutes automatically
-schedule.every(30).minutes.do(process_and_save_news)
-
-print("Automated News Engine is running. Press Ctrl+C to stop.")
-
-while True:
-    schedule.run_pending()
-    time.sleep(1) # Wait a second before checking the schedule again
