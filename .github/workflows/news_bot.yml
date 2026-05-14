@@ -19,9 +19,8 @@ jobs:
 
       - name: Install AI Libraries
         run: |
-          pip install -r requirements.txt
-          python -m spacy download en_core_web_sm
-
+             pip install -r bot_requirements.txt
+             python -m spacy download en_core_web_sm
       - name: Run AI News Engine
         run: python news_updater.py
 
