@@ -1,0 +1,80 @@
+[
+    {
+        "reporter": "Editorial Board",
+        "platform": "The Hindu",
+        "headline": "Historical Baseline: High rigor, analytical, left-of-center",
+        "rating_code": "1"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Mint (Business)",
+        "headline": "Historical Baseline: High credibility, data-driven financial news",
+        "rating_code": "1"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "The Indian Express",
+        "headline": "Historical Baseline: Strong investigative journalism, bold editorials",
+        "rating_code": "1"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Dainik Bhaskar",
+        "headline": "Historical Baseline: Aggressive local reporting, massive regional influence",
+        "rating_code": "1"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "The Economic Times (Business)",
+        "headline": "Historical Baseline: Reliable corporate data, commercial focus",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Hindustan Times",
+        "headline": "Historical Baseline: Centrist, balances hard news with lifestyle",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Hindustan",
+        "headline": "Historical Baseline: Centrist Hindi coverage, sister to HT",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Rajasthan Patrika",
+        "headline": "Historical Baseline: Independent stance, strong civic campaigns",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Amar Ujala",
+        "headline": "Historical Baseline: Strong rural and regional political coverage",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "The Times of India",
+        "headline": "Historical Baseline: Mass-market, frequent advertorials, sensationalizes entertainment",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Navbharat Times",
+        "headline": "Historical Baseline: Urban focus, casual Hinglish, commercial lifestyle news",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "The Telegraph",
+        "headline": "Historical Baseline: Highly critical of central government, witty but editorialized headlines",
+        "rating_code": "2"
+    },
+    {
+        "reporter": "Editorial Board",
+        "platform": "Dainik Jagran",
+        "headline": "Historical Baseline: Right-leaning, highly nationalistic regional focus",
+        "rating_code": "2"
+    }
+]
