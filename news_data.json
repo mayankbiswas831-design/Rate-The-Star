@@ -1,5 +1,75 @@
 [
     {
+        "title": "DHS says it's 'drawing up plans' to ban international arrivals at SFO - SFGATE",
+        "stars": 1,
+        "confidence_score": "99.5%",
+        "timestamp": "2026-05-30T15:55:28.278282",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9pRUxTXzlDX3kxNjNXZXVHYlllX185aG5uR1NCMnh4V1pZd3RueDlOeHQyakNmNVBkWTgwMUJCd0J3elRFdkxpMjJMbHdDcElSSkxCeWNqaWh3Vjl5RDNFR1Y1ZFpraFBjREpXa2tKVW4yeGNnU0N3amtzMm9MQWQzWU1JOFFJc09LdQ?oc=5"
+    },
+    {
+        "title": "Trump wants to \u2018manage\u2019 China trade. Businesses see a tariff opening. - Politico",
+        "stars": 4,
+        "confidence_score": "58.7%",
+        "timestamp": "2026-05-30T15:55:28.245950",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGZ0RElvZWg0Y0xtbTNTNXVkS2lrYU5fTG9RY054MVYwOVBwMzVua1dmMjJHQjNwRmVvRUp5WDRiZkhXb0ZfOHV6dzBjSDNXclN3RGNWUjRvRy1PXzhNcndxcHZCNW1TX3UxTHVIRHJHOWJhSzNEV0RvcW91N0xmRVN6VGZOa3l2UkhMNHhKbUI?oc=5"
+    },
+    {
+        "title": "ICE Agents to Leave Site of Volatile Protests at Detention Center - The New York Times",
+        "stars": 1,
+        "confidence_score": "96.3%",
+        "timestamp": "2026-05-30T15:55:28.216240",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGVQWWFtY3BmU1h4VjVMM2lCVzdmMUxDTUpNTk53LTFIUGYtOFFQSVd5eTJwbEVydi1fbmtBN0tpTTN1WXRtdjBZeTN6WmNtVFVkZG96QkVCXzQ0NXdsclducWhLSzF6dTM2VVBhS2JmNEdPcS1sM2ZyYXJHNDZqTlhXMA?oc=5"
+    },
+    {
+        "title": "Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma - Politico",
+        "stars": 5,
+        "confidence_score": "99.0%",
+        "timestamp": "2026-05-30T15:55:28.187392",
+        "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDQzemFiZ1JZWGlRVVJBNWpzREgxaklxbXA5emNYSzNwR2FldEE5NVNoT2JkRmVaejYtdVlNX3RKZFM4TkNHdUhfY1R1YThkMjUwNFd0YnBBT0pZdUdETlZUZTV4OS1WUWVMT1VVV3hmalpqSHgtd09lclhQcVgtSERXcFNrWHBHZW4tR1FmYTROWGZGd3lnd3VPZklJWUx1QkJ6MDB3SVp0OE9DbWY5RVFBTU9UeWFkQVpNWGhfQmc5aXIyQ3FFNUZmOW14UV9IM0E?oc=5"
+    },
+    {
+        "title": "Trump ordered to address \"grievous allegations\" in IRS case - Axios",
+        "stars": 1,
+        "confidence_score": "99.1%",
+        "timestamp": "2026-05-30T15:55:28.158302",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZENsVzRIZnRxd19Dd2ZOcU1vZUlwS3g4Y180d1dzZmV5bmNneGtIcVZORnFiWFkxakRMNlJDTm9aZU0wYVJvdm90Y2YwdmRkR0VhOVRVN0UtRnMzNFpEOUZxNGRJMGVfcXRWenZhQ1c3d0tYTzlWRURrZDZLNVI2Tm11UQ?oc=5"
+    },
+    {
+        "title": "As Trump Mulls Decision About Iran War Deal, the Middle East Remains on Edge - The New York Times",
+        "stars": 5,
+        "confidence_score": "99.6%",
+        "timestamp": "2026-05-30T15:55:28.128823",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnU4WkE2d0hadEJJM2RweHdqZngxdFJ3eXB3XzNOQ1g2RVFQQnVCREdEcmNfMjZNU0pfdUNaS1F2Ym1YUndlcVhYYTR1eVVjcWpjdVZWZ0hxNDY4MHlXemJsMVRMUlFuRlpHaVExdm8tVlItRGVaQkhCZFFTRGNhTFV3S01GWG9ZUTFGLQ?oc=5"
+    },
+    {
+        "title": "Judge pauses Trump administration\u2019s \u2018anti-weaponization\u2019 fund - Politico",
+        "stars": 1,
+        "confidence_score": "94.9%",
+        "timestamp": "2026-05-30T15:55:28.095045",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHV4UkItalhNZGFzV3VoZXIyMDBUR0kwWU5NLW1zR1NXWnFsRTRiNktxcHJsOWFzWTV0VExWZjVXTjhFOVpQbng0aG5iVG1vbVFIckgtNXNYcmN0RmtTN1kwYjVBQmU0TW9fLS1LOF82aEt3MU1ZWG1tay00dHhNLVcwYndDLVpnSEE?oc=5"
+    },
+    {
+        "title": "White House releases memo describing results of Trump\u2019s health checkup - The Guardian",
+        "stars": 1,
+        "confidence_score": "96.8%",
+        "timestamp": "2026-05-30T15:55:28.065419",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eDh3UHk4dmVPNHY2N3ZLYlFUeEF0QjJ6QUM1WTZYakZzQ1AxSUV3R1NqY2tNU21sUGVTa2UzeEV5Tjk1cXpqVTE4WTQtdHc4eHlyNzlKMWRvR0diMHZIdGoxRXBiTWVfalNDeDJ2MHFVRFF4eTZnZllqS0ROZE0?oc=5"
+    },
+    {
+        "title": "5 Are Freed in Laos Cave Rescue After More Than a Week - The New York Times",
+        "stars": 1,
+        "confidence_score": "94.8%",
+        "timestamp": "2026-05-30T15:55:28.035839",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fWXBXYlRxZ2hlM28yZXFZQ2xmZHJ5N1V1UzMwRnpyT3FnUndUa3M0dkwwdkJWMlVsTUtIVW1IbDJXOFFiaWVwc3AtR2R2UnJUbDg3eDVzajN0WEhCVF9fOE9LamJ0MktrSHo5OExvYzVPX3NrSDlza2p5RWY?oc=5"
+    },
+    {
+        "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump - The New York Times",
+        "stars": 2,
+        "confidence_score": "63.0%",
+        "timestamp": "2026-05-30T15:55:28.003744",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLW9UaVlxeW40em5vcWdHUmRpdG5HQlk4OWRLbEVSZndrbWFrdW9QUVZSRkthRzB3QmRZSVg3SUYxWUZRYTItaHJkZEQ4czZLYmhaOE5sUmxrUFNsWW40UWJvRzJRdjRwZ3U1Q3BaekRaMFZGM3dXeDdjMzdkR0Fyd1RucVFfU3c?oc=5"
+    },
+    {
         "title": "Bondi, Pressed Over Epstein Files, Places Responsibility on Blanche and Patel - The New York Times",
         "stars": 1,
         "confidence_score": "97.8%",
