@@ -1,5 +1,61 @@
 [
     {
+        "title": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know - CNBC",
+        "stars": 1,
+        "confidence_score": "99.5%",
+        "timestamp": "2026-06-13T07:42:45.735089",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGQ3MXRNSHBRTHU4ckJmRS1mdVlDbkJiVzZKV3ZwLVBMR0hfTV9mYjZMTlNXbTR3U3VYaThBNTBCMDhnOWtaWkE2d1I3cjh5bXVHejVUQW9qRTJuR283bWpqc2V1aFFTRTZPazRjY0ZSaThxWU10TkpvWFlsNTVLaVAtU25UYUt3ajFaUHJRaw?oc=5"
+    },
+    {
+        "title": "Trump's GOP allies draw a line in the sand on Iran - Politico",
+        "stars": 5,
+        "confidence_score": "82.7%",
+        "timestamp": "2026-06-13T07:42:45.703977",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaURzN1lfNng3OVd4aXdfRDFVNlF0cmtUQV9uR3IxbG1DVkJiYmZxaWY1VjZDcmhSWUJCaGcxYlZZdTEyWXVQUmV3S3VkWmtBd3V5VXNsSXRlRmZfZW80ZEVza0U3WWxORFpqZ05RT1BYWTZURHIyT3dDTTkwZThiS1NCTllWbGlEaDY4?oc=5"
+    },
+    {
+        "title": "Tent collapses during Virginia church's 20th anniversary celebration, killing 1 and injuring 22 - AP News",
+        "stars": 1,
+        "confidence_score": "100.0%",
+        "timestamp": "2026-06-13T07:42:45.674679",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3c0ODl6TnktZ2NBRjdiclpxamlmdWFxS3hidmVNM1M4a2QxcTctWjdYUDZPZHZEcEY5czlZWDY0NmhHSXZZUHZOTFdScDY0TWhlVkdaLVdhVURzVVgwZzFHZnd1Vi1DNEw1eUEtN251LUhQckdlY3pUYXo2ZWN2cUpPQTlVTjZzZU1fbGVCWjN6RUhiczRHcWdaOEtQakdGckh3Y3BYSQ?oc=5"
+    },
+    {
+        "title": "Spencer Pratt concedes LA mayor race, but declares \u2018war\u2019 against advancing candidates - The Guardian",
+        "stars": 1,
+        "confidence_score": "99.6%",
+        "timestamp": "2026-06-13T07:42:45.644476",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2RyNWVpcFE5Q0hrUDUtVjFHamdfd2JkcjJ0SXVnYmpaeHlWRVZ6ZGUyWHFVWXV1cXVvNnNsaTFYeW16Y1ROSG1ISnZ1T2JJUS1YTUdjYkRUSVY1WHdVSm1PMTdfUkN4QXc5aWFIZks2X3IwdWJVYUZGQkhrOHYxX0FaRmp6Z0xiYkJ3Mg?oc=5"
+    },
+    {
+        "title": "Judge orders Trump administration to restore national park signage on climate change, slavery - Los Angeles Times",
+        "stars": 1,
+        "confidence_score": "84.6%",
+        "timestamp": "2026-06-13T07:42:45.614417",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY3hNSUFabFRFZDcxVmIxSW9OdU5ZN1diZm92VWlybDZOLWxGVjRIQmdvU3hyUTZtbm0xcVVkWWRrcHpSc3pNS1NERXVJTHY5UlJjUnUzR2Q4R2FIRFlmc3JOSV9kWmNIODZJSkpDOTlxVXFnWTRMbE9ibEJkUWtMd2c5MF9TWlpRQjkxYW5ydEMyT3UxN3l4dVkxZFQxakxvQnNxY3dHN3RobFVEY2M3YUhXMjhGSGxrZk1CSjFyaWZ6bzBwcnlzSkxJQnQyMFU1Y0FsN2lR?oc=5"
+    },
+    {
+        "title": "Ni\u00f1o Guerrero: US kills leader of Tren de Aragua gang in strike, Trump says - BBC",
+        "stars": 1,
+        "confidence_score": "96.7%",
+        "timestamp": "2026-06-13T07:42:45.584868",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Y3lQMUtuaUJRYThrNXBUZlF6bjdYMlYxd2xFQ19SZTA1dk44NkYyOHh0MU1KdFRZSFhwbTZJZ01XVjB6N1l0cHJHdzFTOEZRaGVpRDRqRUQzQQ?oc=5"
+    },
+    {
+        "title": "US judge indefinitely blocks Trump's 'anti-weaponization' fund - Reuters",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-06-13T07:42:45.553789",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTndIOVBBWmpGQTU5ZEtCMDBpUGZYTUV3WWF1Q0V6VmhveGNWY3dXM2RqMnRtRS1pRFZ3eGlhY2VOWV9vbko5Ul9sbnk3d0VvTXdHczdta0prekhqdXdGb1dVbFpoRUtHaTNneW9YMWEwaUs4SEJqcTNmSXBnMzl1NEdwb2NrYTBnY09ETEpPQ3VLNkxfclBmY296MjR2RDFEZW9r?oc=5"
+    },
+    {
+        "title": "Kennedy Center misses deadline to remove Trump\u2019s name, citing storms - The Washington Post",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-06-13T07:42:45.524295",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXVOT2ZHV1IxZzM4Qk5hNFBSUDNWZkpwMzR3c0tMYUdielctQ3dpVnZoV0Q0OE5GS3dXSU5hU2JNZ19jcmxDdWVnMi13NExpeHRjakswdFZzekZmWXZSZXl6VWxQaDN0R2hDOHlDLXZtZkJNYnJoVW5VZlNUa1NFbFY4YW14bEQ3MmE3ZmhObTQ3NXh5NzlJ?oc=5"
+    },
+    {
         "title": "Despite Trump Claims, Spencer Pratt Seems to Accept L.A. Mayor Results - The New York Times",
         "stars": 5,
         "confidence_score": "99.3%",
