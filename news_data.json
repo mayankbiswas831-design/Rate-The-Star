@@ -1,5 +1,75 @@
 [
     {
+        "title": "On a \u2018beautiful day for jumping,\u2019 a plane of skydivers plummets to the ground - The Washington Post",
+        "stars": 5,
+        "confidence_score": "98.7%",
+        "timestamp": "2026-06-16T16:44:30.039752",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVldaSENsdFZEbG1WOWZYVkk3MDhOdzNSbWlTZEJ5Nkx4QzdrbVBpRnM2eWU2bDZFRzc1bGNLdnpKeVhfa0V3MEtaVVU2bnJiOUx5VkcwZTJPMXJEbGFoLXQxWHpEclBmbnZ0Y0tISi1MMVk5MEpvS0QxTG9lUWJSX0c4RU4tRS1pdUczUlB5SUk0SWU1MzFNaC1MNDVxY05fTzA1Ym5nVXQ0aVcwVWVWdg?oc=5"
+    },
+    {
+        "title": "Judge who had sex in courthouse and attended political event agrees to exit Georgia election case - AP News",
+        "stars": 1,
+        "confidence_score": "99.7%",
+        "timestamp": "2026-06-16T16:44:30.003123",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkFkX3V5cUF0UXVGT2RzMU5JQWU1bWtCMFdtWm1XOFRJSGFiSmlKeFl6a0V5RElEejItR0N6VlM2R3E4ZXAzUi1tcEJCZDU2WkdkUFVpUzZGRlNSZTZKRUxIRFlrQjJXZXA2cklDN240VUhaWmg5UzFJRkl1SHhaS1lZdUo2QjltbGpRNm5OOTRldko3bk5SRV9LWDR0MTBTcy1oUXlud29KT2hnMmRXT1lQVQ?oc=5"
+    },
+    {
+        "title": "Trump: Iran will suffer 'ultimate consequences' if it reneges on nukes - Fox News",
+        "stars": 1,
+        "confidence_score": "99.9%",
+        "timestamp": "2026-06-16T16:44:29.971573",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1pHUWtlT3dFb2dPN0xfN1hxNEpxam0tNFlaM1BabnZHNndIOEJfbEJIMG04VE9JY3A5eTFBdXMxTkZfYW1QVzJxN0JvSlN6aWlzRjZSNnl3bGJ0T0gwMlBFbVpmX0FLeHVkQkZ1WlBBT01YcGV1cEN6X2RERHBKb2JBQ0JUWHQ2NS00TkFwaGhSQWFESEU2OVpRQUlIdkZWSnc?oc=5"
+    },
+    {
+        "title": "Georgia showdown pits Trump vs Kemp in GOP Senate race - The Hill",
+        "stars": 5,
+        "confidence_score": "82.4%",
+        "timestamp": "2026-06-16T16:44:29.940020",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3B2SkpEUWNBQlV6ZXZjNC01eGJ3cmNGSkhZRzhpRk5XT0czeUlBcm44WUg0ODBzaUMta0R5OHJkNTFEN3llQnB3R1lSdkdPbktaWHRSYjFIUjZVS2xaOEJBZGtubjFJRHBXZVJKbHlBMTlLV0FUdmFyUkN0aHF1SHJoTmFkYlpmam4xVG1oTEHSAZYBQVVfeXFMTnFZMWVTMldMUzRCcGdOR3dhdEh4MHJYS1AzNzNORldGTVBGN2F2aWJFbVNDNGRSdDdFME5McEI5cUxZTTcwbVpZQkZCd21LeE92SzVKeXNiczF3SG1QLTFCZXNnOS1KSVpXMm9JclJSUTNlOXRSa0xsS1B3di13OXFWbnBGVXBLS2p1WG1yOEx1cElPWmt3?oc=5"
+    },
+    {
+        "title": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf - Reuters",
+        "stars": 1,
+        "confidence_score": "88.8%",
+        "timestamp": "2026-06-16T16:44:29.912824",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ2NW5rSzJQNDdJR2U2czlrcHhwbjlmVkNRZk9TVzd6RWowQ3Q0dW1Ud2QwZW90UHVPTmM2bkU1SlZOMmNicU1nYWhIeEJLTXRMX1d2RG9KeDJsMk1GaGhIbG84VW9kV1RxaFpMVkhXNmVxOU1nTjRLNEM1TmQxR2pPV0c1azNrQmlFVVFRNnl3SjdRQThLWlZHdWk4ZU83WXFYVTVmS004eEVoZDRv?oc=5"
+    },
+    {
+        "title": "Trump is turning his attention back to Ukraine \u2014 and Kyiv\u2019s allies are worried - politico.eu",
+        "stars": 1,
+        "confidence_score": "98.2%",
+        "timestamp": "2026-06-16T16:44:29.881318",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSV9MTGR5UDJwMUJ2M1lxNG1zYUdlNmVVbHNsczk1a1EydUdOTTljTWc5Tzg3MVFMQnE5c1p3ekVMbE5LR1ZDZHlaRVVDVWFWZG04dVU3c3JCUFc0U3Q2UzA4Z180dF9DYWpLdHRVd0t4ektsOFJXbUxMc1ZiQm1iOUNTVXk2RXI0cmhfdw?oc=5"
+    },
+    {
+        "title": "Eight people killed in US Air Force B-52 bomber crash: What we know - Al Jazeera",
+        "stars": 1,
+        "confidence_score": "99.0%",
+        "timestamp": "2026-06-16T16:44:29.848935",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0lTel9rbFhaaFE0Mmd3Z0tFV2k1VTNSZXVtWW41WkE3a01mbEdPcUExenhGRGF5SENJNlQ0Z3gwTVdIanJJMS0zRUprM0RNSksybkdHMXg0eks4dUJoSFNHWU1jUjNkZkQ1MUJ2ZHpOZHFfX1hJaXRZYXNXYmZidkZvb08yY2xkaFRMQWRsdXN5Zlp50gGaAUFVX3lxTE85YXAtS1NRY28wMFpqZzYwNEo3SkNpQkJvdUxvVld3cWxPY2Z3TWRMYnBKNzJQRnRzM1RhRDhSTGtEMl9zWE5XZEQwemNiSVdSMnhjVDEtSVIxYjBhLVNzVGlXWlh2U2ZhZi1wVHJCZ04xUGRvdU5KeExNcm1yaFgyWWs1cE1zVUNfQ1g2bTFlZWh6RmRuQldWMkE?oc=5"
+    },
+    {
+        "title": "Trump signals he could send details of Iran deal to Congress - CNBC",
+        "stars": 1,
+        "confidence_score": "99.2%",
+        "timestamp": "2026-06-16T16:44:29.814391",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52OW0zNmZ5TzJ0STByRGw2aTR5ckF5cnZ4ZUJna0NnNDNESDZNX1BidUV6OEtmRnFqWVAyRkxVWXUxTXFqX1l1SnhnUkx0OG12RDNTV1Rva3FRUWJnS25TUEh6bWRubmhlUnlrNGR30gFzQVVfeXFMTnVHUWhteFBvTmZGOWRQMkVFTzZEd2gwaVBDTW1GUk1qWnFkN1hERFNlSFB5d241blRWSmpfUDVRR09GZ3N5Z3h1OWRkZ1pLTXdJUXY2ZS0xOTRkMmtfN3Z1LS11X3hRbGVWd2hHX2lHT0RoSQ?oc=5"
+    },
+    {
+        "title": "Trump tests and looming battleground races highlight Tuesday\u2019s primaries - NBC News",
+        "stars": 5,
+        "confidence_score": "90.7%",
+        "timestamp": "2026-06-16T16:44:29.786413",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWMxV3RXLTItQ29oU0Y5Y2xSWW5Zb05IWXJSQTgwMVFKd1UxVTNCd1h5dXZXdjA2dVZzUlpGRWRVWmpLNURRN0JjbUsxTGJubWpjc0lfTml4X1dWdXE0QWJMYlo4TVk3ZHc5M1B6QVVtY25jOU5VcnFTQW50bno2UXItOTA0MGdpRmpCRDNXOG10YzUydVpQeFJNZ1dhYk9pSGQ1MlJWNnhLWUhuaXhSVGEwUVkyZElkd0lPVTNqQnRlNWs?oc=5"
+    },
+    {
+        "title": "FBI thwarted plot targeting White House UFC event, Patel says - BBC",
+        "stars": 1,
+        "confidence_score": "96.5%",
+        "timestamp": "2026-06-16T16:44:29.755560",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMX19tV2djMHRzS3VxaEViMDhOUjNQRzZHbHFtbFZvZVRxR1YyV0FYdXhTMmxmQk10bHBBeC10REYzRGVtRHRVMUdveGdrVDVYTVgwUG1iSF9kZw?oc=5"
+    },
+    {
         "title": "Republican divides and strange alliances emerge ahead of Georgia runoff - AP News",
         "stars": 5,
         "confidence_score": "98.4%",
