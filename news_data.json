@@ -1,5 +1,54 @@
 [
     {
+        "title": "CBS News poll on America at 250 and some of what Americans think is best about U.S. - CBS News",
+        "stars": 2,
+        "confidence_score": "74.4%",
+        "timestamp": "2026-06-28T17:04:33.644436",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzNkZ2NxTGcteWNfakJBRXp2Ry1FM2dzNm9mS29fZ1JLNWY1aTd6Z3ZQTWU2NWdxM01CalJJcTdyQ0RqTVQ5XzBrMko5ZEUtUTN6cW0tSzNaVUsyMzgwMndpcmVZRFkyaXdrYnZTRjlCdG1FS0RxaGM5dmdiSzNNdnBSU2U?oc=5"
+    },
+    {
+        "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News",
+        "stars": 2,
+        "confidence_score": "79.7%",
+        "timestamp": "2026-06-28T17:04:33.610759",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWE1LMnB3a0FPeUtod0p3b0VnYVNHWGg3ZXl3RVp1aTJVcVZadUFHZFRzWF9fWnpNanduYVZ6OEs2cVE2T05aR2pnRjlpV0FDenlpWHplLUMwNS1Ma3RFUDlQdVlMcmtPUlowNkg5ZkZ2NmktUFVtMDJvX0NTR2ptUmhZOUdMSUt1U2J3TmN2SU5zY3pNQjczbWFR?oc=5"
+    },
+    {
+        "title": "With time running out, Trump digs in on changing midterm election rules - The Washington Post",
+        "stars": 5,
+        "confidence_score": "98.3%",
+        "timestamp": "2026-06-28T17:04:33.579874",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGt1b1BBMkJBY0lkV2dia0dLVnEzNWtOLUYwUDRkN3dlMEEtaHhEbzZZVm9KV1VNR0J3XzN1azdjMGlwbkpxYXlpMjEyYkVpUDJBN0ozU0dCU2JRTjNlYmp5YkJ1S0VmaHdoUGlSMnU5WWF3VHJJdEdZZnpYcDdXUFh2bHIzR01pU0loR20tekRFdWgxdm10aGpMN1p1QVpBM21odDVhUTdIVm9pQzVHZ1JBejIzem8?oc=5"
+    },
+    {
+        "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit. - The New York Times",
+        "stars": 5,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-06-28T17:04:33.549017",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzN3SGRBU2VJYVpQY0NBS01fQmNvTE5uNGVQSGNyODluTE1iYTRENnFWZ1hIdE00RC1WSjg4US1qdzZqU3J0enBtZXhhdjg1bUtqSXJmV3E2Z3c5UmlQNzg0TzJnZ2xHV1hnN0k3MERZWUNKODlvU0xqSmZMaXNfdmxJeG93Wk1nZmc?oc=5"
+    },
+    {
+        "title": "Biden calls Trump \u2018a loser\u2019, portraying him as incompetent, corrupt and vain - The Guardian",
+        "stars": 1,
+        "confidence_score": "99.9%",
+        "timestamp": "2026-06-28T17:04:33.517220",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRVJfUjd1Y01QZ3czeGs3LUtGM0lyNDdhNjR5eUphekNPektsYy1IZmtiMmhYT2gyV0JKNzdTeTJTV05sai11QzZ5N2JfeThhdEJweVU5OGFuRlhJaWp3ejZtam5FR09rWGFtUVItd2VYdEZq?oc=5"
+    },
+    {
+        "title": "Record heatwave disrupts Europe as France warns death toll to rise - Reuters",
+        "stars": 2,
+        "confidence_score": "70.5%",
+        "timestamp": "2026-06-28T17:04:33.482247",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5"
+    },
+    {
+        "title": "Satellite images show scale of destruction in Venezuela earthquakes - Al Jazeera",
+        "stars": 1,
+        "confidence_score": "95.8%",
+        "timestamp": "2026-06-28T17:04:33.452239",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDdtWVlsdjM5OEphdkNqaTljc2pxR2RROTFCOVFvQ09VMk5UakV6cWFDOWdVc3JkRXhVY0hNcDNwbnVfbDgtWXI4elFwcmQxWDdRLUx2R2NMMU9ZVUM2alhudXVKRko3eEZiLXAxMTRjU0oxem5mRjV0VTlPMGpxS2U5X01pVEJOcmZrR2FVM2NtUkJJeGhZWGFldnNfZkR4akZKUmtPRHVDT2lURTY3bUF1THZzbDBo0gG-AUFVX3lxTE0tVUVwdDduZjBMNkp2dWJ1TjhGaFlmRGliaUt4RnpBYTVNZW1wWVh1RmRudTF1NDJOb2N0SEtQekJKNzNrVzVUTE1zanNQUTNtVzJNZ05yZXN2Uk11MEh1VWVzby1Fck80RjJMMWd4Y2NWWGllRm9ONmN2cElDMWZTZEt1cWd5WVQ2Y1Y1Y2dfWlM2RVBDRm43MmxzY1pZVFZHY211M045UzNJTDJ5OHFUZEJFcFo3bTh1RGpDREE?oc=5"
+    },
+    {
         "title": "Why the nation\u2019s founding document is barely legible - The Washington Post",
         "stars": 1,
         "confidence_score": "99.9%",
