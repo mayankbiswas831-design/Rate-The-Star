@@ -1,5 +1,61 @@
 [
     {
+        "title": "Fontainebleau forest near Paris hit by 'virulent' wildfire - France 24",
+        "stars": 4,
+        "confidence_score": "56.4%",
+        "timestamp": "2026-07-13T10:55:37.734564",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjNrVGVta0lpbUpiQ2hpNGEyY1VQOHJJd0hxemNBLUdQSFBCSm9zRDE4NHFNWmlYV19yTjJnTFpac29aODROaUVuSlh5QUFqTDVlMzFBMGE4V0JBdHhEdVNaMlI4Y0g3V3QxdnVEYS1DaWxoODhyZjNudmdTZ0s2RlJLSDRMTjJDd3BuQ2laM0hRUjZkOTlxeWt2Y2dtM0k?oc=5"
+    },
+    {
+        "title": "DOJ opens probe into allegations against United Auto Workers President Shawn Fain - New York Post",
+        "stars": 2,
+        "confidence_score": "71.3%",
+        "timestamp": "2026-07-13T10:55:37.704630",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXpYbjFoRHp1SHFwOU4ySDFmX0sza0Yzd3NfSDF2VUJKMmdpekdBYlQxQmlfa245a1Nld1BhZzNmUTRFX3NYRTBmQWcwWWlxcFhRTjU5Q0pUWE5iaDJKUklBQU5aajVvT2J1VUJSQW9BN0ZhbUFHd0dKaTJuWWlqSVYzT3pkZnRuX01BTS1keGtNU3J0Qm9ISFBpa1ZhS3Q4YzdHS3FlS2FpTGNwSmctTm02dEpFNHVZSllrTm93?oc=5"
+    },
+    {
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people - AP News",
+        "stars": 1,
+        "confidence_score": "99.4%",
+        "timestamp": "2026-07-13T10:55:37.674198",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDZqVUcxbWQwdkVZbGFYZDROU0F1WG1oOTRHd1J2SWhWQTFocXdOV19PVW54NHFvb3FseEVtdl9GYjRTcEktZDdKME9WcjdjSkpwQ2JhTWJiWE1IUXVLNmgxclVsSERkenBiYWZvVjZPcklPdk54RGIyRXg1ajd1UlNIN2JCM0ZUTC00cmR3?oc=5"
+    },
+    {
+        "title": "US and Iran vie for Strait of Hormuz, waterway key to global energy supplies, in latest attacks - AP News",
+        "stars": 1,
+        "confidence_score": "89.8%",
+        "timestamp": "2026-07-13T10:55:37.643076",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXlDMHpMczFma2paOVJQMzZuZzVNVFZLeS04V0VXUk1zUFBSTGRaelYzaU1fQlg0azEwQ1dQQ2lfV2VmOFBMZ0ZGa0tjSWJGUWVFdDhhUTdCbmpKMy1QRHVOdE5YRnliNmJfVkRKU09zdVhYSm1hQW94MDlUbEp1OXB0ZjIzZlFtYUdZZHBQb2pHT1V5bjZtbVE0QVN3cTg?oc=5"
+    },
+    {
+        "title": "Inside Israel\u2019s Secret Operation to Cultivate Ahmadinejad - The New York Times",
+        "stars": 5,
+        "confidence_score": "91.8%",
+        "timestamp": "2026-07-13T10:55:37.607693",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUtmR3FDdjd5SXU4cE90ak5RNEJxbTFaM0doRzRGS0hiZG9CM2FwV1BTOVpleU05TVdNQjQxaURGbGRsZHVsMlgxaml0TUJNX3JFTVlBTW92dDl3bEVvYmRYSk02UnY2NnZFRkloX2dxV1NMOWlmZTIySWdlb0xCUTFaM1lKZlVFTWg0?oc=5"
+    },
+    {
+        "title": "McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-07-13T10:55:37.576501",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSENVV2tYQWwtYkNKTTRnTUVhcmpqUy1rOVRMYkxyWTBCd2JjRlVnZ0FyT1A5QnNpVm4tQmpWXzV5VEpiY2J6Yk9SS2pOUkUtSXZDd2lNX19vT3JuVnhpX0VoaTBOeUJTOWdQckhKMzFzQUlaa2ItVFJ2bXRFSUFSWg?oc=5"
+    },
+    {
+        "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates - CNBC",
+        "stars": 1,
+        "confidence_score": "98.4%",
+        "timestamp": "2026-07-13T10:55:37.545684",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYWGZGQk9PSklxTU5ZU25HcVEydnBmSFZhMUJJRU5Pc0c4MjNidW1OVGFaUVIxWEt0RUhGU2h2SDdCVEZUTFRDZWc4RUo0cGFWekZLUTY3aGI1XzFxQW5mNDlEWl9vdE05YnpnTWNPRkdRanPSAXhBVV95cUxOMkhCelFpT2JEV3lpQTl5anpFNDlReFdjWVd2UzVNVEd5elRBbWVHZVI4dHh0cjlXcEoyOFoybEUzeXB4ZElsRDUyZHR6ZlVkOGJCTFNTME5xam1TSjRINkw4VVJwa0JrY2JfekQ0SWxnMV9GUW9zN1E?oc=5"
+    },
+    {
+        "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate - The New York Times",
+        "stars": 5,
+        "confidence_score": "99.9%",
+        "timestamp": "2026-07-13T10:55:37.512922",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFVCZWMwZXAweEVFMmlabkFSLXFWeFFSNXRXbkpTNjF2NHhZbHlHQVdZNDFWVHpBNllaeWFKbTNId19jekVvaEtQdzQ1NHVaYTB6YmVUVThUb3RUMFlCR205SFN2UWZYX3JfMkRkRjNSU253bkVhWFZCS096Q2JzZkVnWEFaUQ?oc=5"
+    },
+    {
         "title": "Sam Neill Dead; Jurassic Park Actor Was 78 - Deadline",
         "stars": 1,
         "confidence_score": "99.7%",
