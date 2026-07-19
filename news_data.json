@@ -1,5 +1,47 @@
 [
     {
+        "title": "Chicago air quality update: AQI likely to stay 'unhealthy' for all as wildfire smoke returns, impacting events - ABC7 Chicago",
+        "stars": 2,
+        "confidence_score": "50.1%",
+        "timestamp": "2026-07-19T16:52:40.413639",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTdGUnRNcEpuTFdfRWEwQUhyTzBLZS1DNnhtR1Q5Y3VpeUxFRGR2NV93X2ZPdzFrSGJ3UHFVNlNLWnpGSkk3RllJZVFpeHlkY0xBRUtfMmtsVEhlTG5JTXlyM01JbnN2ZHJMdklONGtId0JzUk1QSl8zT2l3ZjRXNGpVOWM3elloeXJ2NUlXOVhXeHQ4QVFmZTEtY3JjRFk4dzRGV1RJRlJlQjg0YTJLUWllZ0tTSUdhTGo4OGg3X1o3d9IBxwFBVV95cUxOWUx5dU5oeVZKMnlvNWN1UDNIU3FzY3VNVG9QVFl6SW5sN3FzY3BGbkw0MzJoRENqaGhiVVVvak5jOGRQQjE2TmwzSVhKaVppREQ1aV83RlhrbEZxRTJXSmZFRGpTbVRmbjkyNDBSS3M2X3Q2WWlkM0FGb1BLU0RBX3lqeU1lX3lIV1NTQUhCOW5pUEk4WGkzVTNVNjhuQUp4QVVoMGN5Vmk5dlVQVmlReDluSjR5dDcyMm94WlJmZThFTzAxQ21R?oc=5"
+    },
+    {
+        "title": "Trump claims voting by noncitizens is rampant in America. The numbers tell another story. - Reuters",
+        "stars": 1,
+        "confidence_score": "97.1%",
+        "timestamp": "2026-07-19T16:52:40.376169",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFVaODFQSEZwMnFUNXFSZkRkUGRMQWU1RjhKSlQwQnVqVkYtQXZUazdrUzZqYVBEWU5IZFh5SlNOYVlzeVRzSWdFY3pzdzJwQXBVOVVleC1VaTl0S1R2MWR2SmRjMkNLWFlZQXJuUllzQlJ1NFpqQVM3b1Z4TGI2MWdKVmU4V0pwajczZWVNN2Z1dWN0OTcteF9XTGdxQS1IRHBjR0dDVzRmeXJJRXY4dEJEbnY3emd5dVliQU1CZnhXbU9lMzlMUEVuWQ?oc=5"
+    },
+    {
+        "title": "US strikes Iran after American troops killed in Jordan - Financial Times",
+        "stars": 1,
+        "confidence_score": "95.3%",
+        "timestamp": "2026-07-19T16:52:40.343722",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGx2cW15RkxnSjdfTzEtZV9ydGctRGRLeGlNQ0JsYS1RVTNVSkxfdkM5WHl5LVhWMXk5SnFMbFpxN0VPMC13Vm1OemdWLTBUcE5NM203REVhYzFUQWhTMzBNRVRUM2pmckNkbUZGMXpJaEpYdGJqTy1wNjVnbllHZmdaOVI?oc=5"
+    },
+    {
+        "title": "Despite Trump's unpopularity, new poll shows tight race for Congress - USA Today",
+        "stars": 5,
+        "confidence_score": "99.2%",
+        "timestamp": "2026-07-19T16:52:40.317799",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS21wOGRibmRkeXVrc2Y3VEVUM3FGU29GNjBVR0hhUTAzMFhhT05KZWFQQ1RDcDllT3p3aERON3Z5Q0Q1TzFieHZVWGNWelYwaHlnc3puU2U0d09YaFdhYy1iQkNuNEgtbXBmWnl6LVpIV2wyZmI1VW1vWnJBQlVHdTZpdWJNbzM2N2R6bHQxSWo3Vkl3Z2NWZHFqZmpzTjRiZWRXTnZ6aWdDUk1HdlBv?oc=5"
+    },
+    {
+        "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida - Reuters",
+        "stars": 2,
+        "confidence_score": "76.2%",
+        "timestamp": "2026-07-19T16:52:40.287653",
+        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFE1Z0lqX1NocUk3VVRYQjVqMThTWjNIT3dTbU5RelVNdFQ3WTNQdDdXczQ3cXVYc0FSdk9reWhEaEFlektKX1dLdDFSWmlsZUxJd3h4WmtqakY4bWktd3NWY2RGMDFDSlRhZHhrdWs1UzRITGd4S1FMVG9tYkk5dHVWbTRQWGFlLVczNWhSV1l3RjJUcW1tcjl6ZDEyY1JQLWdUNWNEeXQyQW0tQlRjLUVFVFExSDltYS1xYzA2clowNmdW?oc=5"
+    },
+    {
+        "title": "U.S. and Iran trade strikes after two U.S. service members killed in Jordan - NBC News",
+        "stars": 1,
+        "confidence_score": "99.2%",
+        "timestamp": "2026-07-19T16:52:40.257195",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5"
+    },
+    {
         "title": "In Graham Platner\u2019s county, Democrats move toward a successor without letting go - The Portland Press Herald",
         "stars": 5,
         "confidence_score": "99.8%",
