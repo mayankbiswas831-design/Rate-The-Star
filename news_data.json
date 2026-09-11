@@ -1,5 +1,61 @@
 [
     {
+        "title": "Gov. Newsom Signs Sweeping New Rules for Online Child Safety - KQED",
+        "stars": 4,
+        "confidence_score": "58.1%",
+        "timestamp": "2026-09-11T02:32:32.039336",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEc0bzRVX0lNNUpldzZ1em1HUE9Ub3Z3UUJMbGpEaENkUDBRbk9GUWJWN3ppMkhVWkhtTGo4RERuUnpDc2hBYXg0ZXpEZDVCdHBHUGk2Ti1YQ1NzMld6TkdmYk8wNFdrM1lYMDdIQk0wdjVGZmJtclRPMW9HYTRkTHB3WDdFTjBsWC1BY3p6dXV0MTlmNTNKTEV3?oc=5"
+    },
+    {
+        "title": "Denver sues to block ICE officers from voting sites - The Hill",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-09-11T02:32:32.021158",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWNJc0NjeHdIdmRzcDVFbkl0YjBNYk9YZ0tSOTdvUVRJQzE2V09SSm9fNGYybktKQUF5Qnh0SVl2aTVoUDBCR1NPb2wzVFNlSTFhT1VDSmdJVXYwRGc1MkhnUHFuQWFsVzBseHN5ZThRT1NLU09UMjBUMTNENTNJd3VydS1JeUQyS2F1elBnSdIBlAFBVV95cUxNLTdFYjdkUnRnclh5dXRrV0FWTzRnZzhMdkxQNDdrOG5PVE1rQVVKZTBDYmZHUTFKeFk4RFl2bGV0UU5QUEhCT2dPX2tIZjJPMDhrcGVmbERRWnJvYXRpUDRicnZxVkRCMWxmVEo0bkl6Y29hS0VHMkVaOFZBakRRNkpBM1ZjaFItSVFOZnh3WUZ1M2lQ?oc=5"
+    },
+    {
+        "title": "Prosecutor who led \u2018grand conspiracy\u2019 probe of Trump targets resigns without charging anyone - NBC News",
+        "stars": 1,
+        "confidence_score": "97.5%",
+        "timestamp": "2026-09-11T02:32:32.002944",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnNwSWdiTkV0MF9fUUNrbEVWdG1PTW5aSUh0M0hkZlNSZDJsNEFrcHlxbjlObEtIaEhPU1FEa1NoUG04QlpnaU4ydmxzVUhpQ1JGekJWSnZWRE12b2RzM0w4Z1BJb0ZCbnVLVDkzRmZleHRudENiN0M2Z1E2SmJmUDQ2QnFCdFZLaVFRS2QzdGE1eU5odnlCbDJMODRhRnNFRW5rVklhdVNLbTU4ZU40bEdHLUZOdkNvZlVmbVVqdDN5amJ6bGRBSUI3Mkpldw?oc=5"
+    },
+    {
+        "title": "Lindsay Clancy\u2019s lawyer asks the judge to spare her a second trial for killing her children - AP News",
+        "stars": 1,
+        "confidence_score": "99.0%",
+        "timestamp": "2026-09-11T02:32:31.983163",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVi1BWXJndGpqR3ktRVBZbHliRkZYbklFX2dQVmFMSFVkSVV1Vmg3bzN6aGpsY3F6YlhPdy1CMm5SZjVtRF9sSHd5N0Z6Rml2dXI4WllFbk5LMWdoYmY5dVJPUkFkUXdOZGlPUWczVk0tVm0taUVwS1laeXVxcll6Rkp0TVlaU3pBMmttc3hYT3Q1RTdHOXBGX2s2anRTOEN4bWRrbFU1TS0wcEx1clE?oc=5"
+    },
+    {
+        "title": "Vance doesn't want to talk 2028. Republicans are chanting \u201848.\u2019 - Politico",
+        "stars": 1,
+        "confidence_score": "99.7%",
+        "timestamp": "2026-09-11T02:32:31.961962",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTlpNlBMaWxUeHc2OXg4RTh3RG1fMmdjTXU3Z3ExR2pJUEFyYjdGUXhwajZlTS10THYwdW5RcWtnbjZuOWd5d0hGR0I5ekdjWEJKN2g0c3ZCVHNXeHh6bHcwbDFEOHFtUzZqUGh0cjU4bnQtWmpGTkhYWTdMbzdZRC1tYlo4UUs2UnJoeUdWN3FseHdSdDRzekVxbGNNUkNzV01tLU45RTdfZw?oc=5"
+    },
+    {
+        "title": "Missouri Supreme Court finds Denny Hoskins \u201cwas in contempt\u201d over congressional maps - Missouri Independent",
+        "stars": 1,
+        "confidence_score": "98.5%",
+        "timestamp": "2026-09-11T02:32:31.940027",
+        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?oc=5"
+    },
+    {
+        "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-09-11T02:32:31.920026",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5"
+    },
+    {
+        "title": "Vance, Trump speaking at the Republican midterm convention in Dallas - NPR",
+        "stars": 4,
+        "confidence_score": "75.8%",
+        "timestamp": "2026-09-11T02:32:31.899512",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?oc=5"
+    },
+    {
         "title": "S.F. Mayor Lurie unveils plan to protect renters amid AI-fueled housing \u2018emergency\u2019 - San Francisco Chronicle",
         "stars": 5,
         "confidence_score": "99.3%",
