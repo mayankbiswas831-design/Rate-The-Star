@@ -1,5 +1,61 @@
 [
     {
+        "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump - Axios",
+        "stars": 5,
+        "confidence_score": "99.0%",
+        "timestamp": "2026-09-28T10:25:33.930314",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5"
+    },
+    {
+        "title": "Here\u2019s the List of Goods the US, China Agreed on for Tariff Cuts - Yahoo Finance",
+        "stars": 1,
+        "confidence_score": "99.1%",
+        "timestamp": "2026-09-28T10:25:33.899425",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1FM3g3dXdsbzIyUWRnVEFSQWxiemFSTjJMUHU1aGhwU2lEV2Iwenl4OG9acjF2YzR5LWRWdVpwb3dXLUNWaHBiZGZCWkZUWl9LS1JLSlNfZnJOZDhsVkVpTG9uMzRXNklXV1NqZ0VSaFR4aVJrNXdpN2dCeEhlR0JkWnhTSHpSdnZ2c3U1U1hBQ043amc?oc=5"
+    },
+    {
+        "title": "Paul emerges as a roadblock to homeland security efforts - Politico",
+        "stars": 4,
+        "confidence_score": "76.3%",
+        "timestamp": "2026-09-28T10:25:33.868513",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMllUMGNVWThoWU5pZGNCZGVnSFVQcXh2MXdaVW1YNS0wQU9wRzhqam1WTnVpM1pKbG5ZNzNuaDVpYmRjOW9IWkhoWjVrRWNxMTJFSjFpaFBKZWFfZ3UxRFRsZmJkeTN6U0llV19rbHdmWUZrR0hOY2RvWlZfOHF6VkEtYWRZcG1iMkRxbkpYUVRmY2UwQ1RnVFNB?oc=5"
+    },
+    {
+        "title": "\u2018Storm fatigue\u2019: Hawaiians reeling from back-to-back hurricanes as Nolo\u2019s threats diminish - NBC News",
+        "stars": 1,
+        "confidence_score": "99.7%",
+        "timestamp": "2026-09-28T10:25:33.842030",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFh1bkVKcHZ0VGtOVlMzRms0UUVTazZxYnhLQi1oUlZfTzd5NC0tYksxdTRJd2FvVGQ0SFNiRWVxV2JZUmg5RmJiWmhRUlRqS1NfUV9wNGd4bHdwUnpucm8tVWhWTWpNNEQxb2hyemxoQWMzM2RiMzVKeHVQX3E5R3F4cHoxdHBFR3JwY2dua2VJbUpPRnZuVHZqYzZtOVFfNV9UWThqdGREZzlNek1uVEdwRU9QRERFd0ZobjFiRzdBQQ?oc=5"
+    },
+    {
+        "title": "Two mass shootings in South Africa leave 28 dead - bbc.com",
+        "stars": 1,
+        "confidence_score": "99.8%",
+        "timestamp": "2026-09-28T10:25:33.805431",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcFRmTXRXMWwwbU1EajhqRUl1SXdfLWtsa0pXTzU4bTBOY21jVHp6Ui1PRUU5TmlVQmNPVDZkWC1wOFFBS1o5azZZdE9yT1RLbjctRXZJMmN6UzQ?oc=5"
+    },
+    {
+        "title": "\u2018Xi got face\u2019: China relishes equal treatment from Trump - Financial Times",
+        "stars": 5,
+        "confidence_score": "99.7%",
+        "timestamp": "2026-09-28T10:25:33.778157",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZMY1VpS1A0YnNDUjFuLXQ0d3duMXBpOE5YUjU5MklqRHRicU41aTVtX2tyaUktZ0FfTUROQ0tOckpIakVwNFk3STdPNHFqNUM4SFpFMGhpUlNQTElrZEpULV90cmsydGZjckZBQTYzT0ZLclpaRG5ReExQODdHM0x4cUQ?oc=5"
+    },
+    {
+        "title": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. - wsj.com",
+        "stars": 1,
+        "confidence_score": "93.3%",
+        "timestamp": "2026-09-28T10:25:33.747314",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXp0VDVwMkZGQUR0OVFaQ0F6UHY3eDRsYmVadXFSWkRLQUhWVEZCVkFkdmZqd3FnMHBLQ05nWWZLV2p6MzVFWlVRYzZ5MDJURDczQ0FaMmdEOUNPTENwN3RRU01oOHpIdUNKenN6dnJWRzNWeVZwZFpuQ2RLakc0SE1qVTVLNDVsWTBIbm1Tc2N6V2N6aWNPN05wUmx1dkJLRE9Md0Vxd3ZVWTBhUDJoOWFOeGYydXRVRUE?oc=5"
+    },
+    {
+        "title": "What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base - The New York Times",
+        "stars": 1,
+        "confidence_score": "98.1%",
+        "timestamp": "2026-09-28T10:25:33.715851",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJyNF9VLUp1VkFMMUV0cEpid2xGRWdocUNXcGZmbnRtTXJlV3BJTVY0dlNncWRUa3hhVkVfcG5TMnBOOE50eklDYTVGY3BQc2E0WmVpMG1EM1lDMmZoeGR0SjlFNVNzcEhmMDViaGxNdl8wTlExNWdJQlh5bmE0Tm9aM0NjaVNqWFRheXdlUkw1Vkotd3V4QjlyUjU?oc=5"
+    },
+    {
         "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls - The New York Times",
         "stars": 1,
         "confidence_score": "91.4%",
