@@ -1,5 +1,68 @@
 [
     {
+        "title": "Newsom, Eager for a Higher Perch, Climbs the Golden Gate Bridge - The New York Times",
+        "stars": 5,
+        "confidence_score": "99.2%",
+        "timestamp": "2026-10-01T10:40:47.048376",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WWGQxeFJDSUtNU1E5YmlSbHlGdTRrdFJWRW91c09la1Z3M3NxUWFfYVZMaDRsUGdScnVOcERiakZJZDh4MW5ndXZmd0RHN0x6SnVOdUowaVN2VmY4cTFIQ1VfQ2FNUjNSM280S3JHV0M3T0dpOFMw?oc=5"
+    },
+    {
+        "title": "Former diplomats assess U.S. withdrawal from Iraq and region's future - PBS",
+        "stars": 2,
+        "confidence_score": "69.1%",
+        "timestamp": "2026-10-01T10:40:47.026505",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXpESHNwRFlGd045VUFFSXpLYkdhODFBdkhJOTZvRGhXZHpmNlpyQ0lrNmNvRzJ5RVhoaC1HVHE4VTMxLV93aG5fM0lhd3pPbEstVDVaaGV2YmRxY0tMSU8xeXB6dFFtWTl5Ukc1ZThFSURSUHcyU2hYY2Y1ZmF5MnpILVJGeGhhZWtQa2ZOemFWZ2NhSjctRHREcHpBcV9VUUJr?oc=5"
+    },
+    {
+        "title": "944 children abused by Catholic clergy, Mass. AG says \u2014 but no new charges - Axios",
+        "stars": 1,
+        "confidence_score": "98.5%",
+        "timestamp": "2026-10-01T10:40:47.004675",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEFSTEJQYkR3UEdXdjRHcmhsQnk4TkxLQllEVVAyZ05XLTFZSXRRUnJpQmtVVVhCcVpmeVF4NUlOM1pZVC1Jb2pSMXp2S0RrZ1VHa3pnT0Q2QjJodUhTNFpvdG1xajBFeFJ0U0NRTUYyZmZJanJraDZfc05VaVhzdTVBQXEyQQ?oc=5"
+    },
+    {
+        "title": "Republicans need Trump to turn out the base. Some candidates still don\u2019t want him. - Politico",
+        "stars": 1,
+        "confidence_score": "99.7%",
+        "timestamp": "2026-10-01T10:40:46.982716",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGJpNlFCQzJkM01OS21rTDZhdlpmWDd0VGExS01PU0RTd2pSTHNZZVYtYk5jRlRySFVlU3RXVFdFOEN0aU96S0dKZ1YxeWMzU0RVMnpmSGR4Qk11Ul9aNExoclRWRlZvMnM5Z3RpVnlxNXhwQXV0Z2VYdkFiazZFekdCb3pOY2htd3JJam01X0JsdWRRMDE4?oc=5"
+    },
+    {
+        "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at \u2018beardos, weirdos and wimps\u2019 - The Guardian",
+        "stars": 1,
+        "confidence_score": "86.7%",
+        "timestamp": "2026-10-01T10:40:46.960332",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzB5NTliRE5TN0pPRE10WjF1RVRBNXFza1FCYWZKMEFnUEdwSi00WVZVbE5qY3B6d3dYUGpHcjk4ZVFpenR3NVphX0dtLS02N3MzNW1vZ2g2SldTMjVHSTFRNFl0b1NlS1RELXEyaVVSR09YSC0tZFg1N2VwZXZWS3lsRFdfdw?oc=5"
+    },
+    {
+        "title": "Inside Zuckerberg, Huang\u2019s push for White House AI pact - Politico",
+        "stars": 5,
+        "confidence_score": "86.4%",
+        "timestamp": "2026-10-01T10:40:46.932826",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOURTbFpaOVQyYWZYcDhnWEtUMWZPNXdNRmE2UzBUb2IwNUg4UWF0bnoxeFg1NFJHYW1iSWlOMEhET01USmtPam1GMHZaeWZzTl9lcDFSd2RJeVVmZW1vbDZ4eG9Zbkd3a3Z0d21iM255MmZQcVhHYUoyTV9aQmtVdTB0cHVlekptRDFGdVM4OA?oc=5"
+    },
+    {
+        "title": "Cornell student\u2019s 2024 statement to police reveals new details about the night of her alleged rape - NBC News",
+        "stars": 5,
+        "confidence_score": "98.3%",
+        "timestamp": "2026-10-01T10:40:46.911232",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9FNklZMVJIX19sSFUwVWxwNUhQYVdFeEZZV1QxVXFUbDVQdVdzOGJfV1RNTEdBczBFMExEemhRTll6ODFNRnIzWk1ORElPVjNjNVBpWjdGVHpVcno5UGt0RE1heDNwdGN0ejdGVncwVERSQVU5NjVueVJFREpDRFFDRnZCN0sxOTh0WlN1NUQ4M0JkQUFqaVByQjk3LUJ6MVk0TkZkUGk?oc=5"
+    },
+    {
+        "title": "US death row inmate survives execution attempt after two lethal injections - BBC",
+        "stars": 1,
+        "confidence_score": "87.5%",
+        "timestamp": "2026-10-01T10:40:46.887230",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SVQtdi1scTIxSHpaRWxNRmVpVWFkY3EwaTlkRjMtb1AwMzRMcXNTYmdxZ21yS19WWjJwbmhKUjc4NmlhWmZLb3pRRzdkMnVCUGM1NS16RWlXRFU?oc=5"
+    },
+    {
+        "title": "Flydubai latest: Indian pilot who fought off apparent hijack attempt hailed a hero as passengers describe terror onboard - CNN",
+        "stars": 5,
+        "confidence_score": "98.2%",
+        "timestamp": "2026-10-01T10:40:46.867533",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRm9PT1Vsay1fUlpGNUxsU1premxMdnE1UElKWEt2ODNKaWRFSU9XamlOdjdFNXB5Z0RSendibTRVQ2VhTW9MNmg5Tk90TlB5QTNqaERmZnViQTFiLWVON01WSXFESlRQZTYyQzRZa3VhZ3V4dFI1WDNOUnNJSHg0TVlrYWt4NjBQTk1GYTNKTllRYk9WbXc?oc=5"
+    },
+    {
         "title": "Schmitt aide\u2019s move to White House in doubt following Jack Smith hearing - Politico",
         "stars": 1,
         "confidence_score": "99.2%",
